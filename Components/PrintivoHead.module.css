@@ -1,0 +1,76 @@
+.PrintivoHeader{
+    font-size: 17px;
+    margin-left: 50px;
+    background: #F7F6F4;
+    width: 100%;
+}
+.PrintivoHeader a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    padding: auto;
+    margin-right: 100px;
+    
+}
+.row{
+    background-color: #ECE8D9;
+    display: flex;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #384A62;
+}
+h3{
+    font-size: 20px;
+    color: #908095;
+}
+h5{
+    font-size: 15px;
+    color: black;
+    margin-top: 50px;
+}
+.placeHolder input{
+    width: 50%;
+    background: white;
+    border: none;
+    height: 70px;
+}
+.print{
+    background: #ECE8D9
+}
+.col-7{
+    display: flex;
+}
+.sticker{
+    height: 80px;
+    width: 100%;
+    background: #F3B1CD;
+}
+.sticker h4 {
+    text-align: center;
+    padding-top: 30px;
+    padding: auto;
+}
+.footerbg{
+    background: #384A62;
+    height: 300px;
+    width: 100%;
+    text-decoration: none;
+}
+li{
+    color: white;
+    font-size: 16px;
+    padding-top: 10px;
+    list-style-type: none;
+    font-weight: 500;
+}
+h3{
+    color: white;
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.row{
+    margin: auto;
+}
